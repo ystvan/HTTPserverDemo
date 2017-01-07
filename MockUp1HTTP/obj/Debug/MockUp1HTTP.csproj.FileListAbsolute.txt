@@ -1,0 +1,6 @@
+c:\users\istvanmarki\documents\visual studio 2017\Projects\MockUp1HTTP\MockUp1HTTP\bin\Debug\MockUp1HTTP.exe.config
+c:\users\istvanmarki\documents\visual studio 2017\Projects\MockUp1HTTP\MockUp1HTTP\bin\Debug\MockUp1HTTP.exe
+c:\users\istvanmarki\documents\visual studio 2017\Projects\MockUp1HTTP\MockUp1HTTP\bin\Debug\MockUp1HTTP.pdb
+c:\users\istvanmarki\documents\visual studio 2017\Projects\MockUp1HTTP\MockUp1HTTP\obj\Debug\MockUp1HTTP.csprojResolveAssemblyReference.cache
+c:\users\istvanmarki\documents\visual studio 2017\Projects\MockUp1HTTP\MockUp1HTTP\obj\Debug\MockUp1HTTP.exe
+c:\users\istvanmarki\documents\visual studio 2017\Projects\MockUp1HTTP\MockUp1HTTP\obj\Debug\MockUp1HTTP.pdb
