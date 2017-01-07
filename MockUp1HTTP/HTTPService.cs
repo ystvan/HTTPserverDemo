@@ -57,7 +57,11 @@ namespace MockUp1HTTP
 
                     try
                     {
-
+                        _fileStream = new FileStream(uri, FileMode.Open, FileAccess.Read);
+                        writeSuccess("text/htlm");
+                        _fileStream.CopyTo(_streamWriter.BaseStream);
+                        _streamWriter.BaseStream.Flush();
+                        _streamWriter.Flush();
                     }
                     catch (FileNotFoundException e)
                     {
